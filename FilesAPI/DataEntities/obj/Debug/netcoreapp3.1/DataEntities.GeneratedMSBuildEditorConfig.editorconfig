@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DataEntities
+build_property.ProjectDir = C:\test\FileManagerAPI\FilesAPI\DataEntities\

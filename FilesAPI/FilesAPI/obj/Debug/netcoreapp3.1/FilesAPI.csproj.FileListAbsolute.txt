@@ -1,0 +1,81 @@
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.csproj.AssemblyReference.cache
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.AssemblyInfoInputs.cache
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.AssemblyInfo.cs
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.csproj.CoreCompileInputs.cache
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.exe
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.deps.json
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.runtimeconfig.json
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.runtimeconfig.dev.json
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.pdb
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\BuisnessLayer.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\DataEntities.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\BuisnessLayer.pdb
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\DataEntities.pdb
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\staticwebassets\FilesAPI.StaticWebAssets.Manifest.cache
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.RazorTargetAssemblyInfo.cache
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.csproj.CopyComplete
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.dll
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.pdb
+C:\test\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.genruntimeconfig.cache
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\test\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.exe
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.deps.json
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.runtimeconfig.json
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.runtimeconfig.dev.json
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\FilesAPI.pdb
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\BuisnessLayer.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\DataEntities.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\BuisnessLayer.pdb
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\DataEntities.pdb
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.csproj.AssemblyReference.cache
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.AssemblyInfoInputs.cache
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.AssemblyInfo.cs
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.csproj.CoreCompileInputs.cache
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\staticwebassets\FilesAPI.StaticWebAssets.Manifest.cache
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\staticwebassets\FilesAPI.StaticWebAssets.xml
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\scopedcss\bundle\FilesAPI.styles.css
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.csproj.CopyComplete
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.pdb
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\FilesAPI\obj\Debug\netcoreapp3.1\FilesAPI.genruntimeconfig.cache

@@ -1,0 +1,19 @@
+C:\test\FilesAPI\DataEntities\bin\Debug\netcoreapp3.1\DataEntities.deps.json
+C:\test\FilesAPI\DataEntities\bin\Debug\netcoreapp3.1\DataEntities.dll
+C:\test\FilesAPI\DataEntities\bin\Debug\netcoreapp3.1\DataEntities.pdb
+C:\test\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.csproj.AssemblyReference.cache
+C:\test\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\test\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.AssemblyInfoInputs.cache
+C:\test\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.AssemblyInfo.cs
+C:\test\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.csproj.CoreCompileInputs.cache
+C:\test\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.dll
+C:\test\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.pdb
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\DataEntities\bin\Debug\netcoreapp3.1\DataEntities.deps.json
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\DataEntities\bin\Debug\netcoreapp3.1\DataEntities.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\DataEntities\bin\Debug\netcoreapp3.1\DataEntities.pdb
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.csproj.AssemblyReference.cache
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.AssemblyInfoInputs.cache
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.AssemblyInfo.cs
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.csproj.CoreCompileInputs.cache
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.dll
+C:\Users\dinag\Downloads\FilesAPI (2)\FilesAPI\DataEntities\obj\Debug\netcoreapp3.1\DataEntities.pdb
